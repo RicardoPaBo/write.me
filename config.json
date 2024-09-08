@@ -1,0 +1,8 @@
+{
+    "version": "1.0.0",
+    "reboot": 0,
+    "wlan_SSID": "",
+    "wlan_Password": "",
+    "printers_hostname": [],
+    "printers_IP": []
+}
